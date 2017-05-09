@@ -22,6 +22,12 @@
     <artifactId>hibernate-core</artifactId>
     <version>5.2.10.Final</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>5.1.21</version>
+</dependency>
 
 <!-- for JPA, use hibernate-entitymanager instead of hibernate-core -->
 <dependency>
